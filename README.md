@@ -1,6 +1,6 @@
 # React E-commerce Store
 
-![cover](https://github.com/abhinavg916/workout-guide-app/blob/main/Workout%20Guide%20Cover.png)
+![cover](https://github.com/abhinavg916/react-ecommerce-store/blob/main/Clothing%20Store%20Cover.png)
 
 Watch the live production build here i.e. **deployment** - [Live Preview]()
 
