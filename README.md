@@ -6,8 +6,6 @@ Watch the live production build here i.e. **deployment** - [Live Preview](https:
 
 **Developed** using TypeScript, Reactjs, Redux / Saga, Axios, React Router, Styled Components and Firebase
 
-Developed online E-commerce Clothing store using React.js
-
 Developed an e-commerce clothing store app in React.js featuring product display, shopping cart, user authentication and order management for seamless transactions and order tracking. Utilized Redux / Saga and incorporated TypeScript to enhance code.
 
 ### Features
