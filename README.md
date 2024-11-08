@@ -1,4 +1,4 @@
-# React E-commerce Store
+# React E-Commerce Clothing Store
 
 ![cover](https://github.com/abhinavg916/react-ecommerce-store/blob/main/Clothing%20Store%20Cover.png)
 
